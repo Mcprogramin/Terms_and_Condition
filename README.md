@@ -1,4 +1,4 @@
-# Terms_and_Condition
+# AS-TECH Terms and Condition
 These terms of service ("Terms") apply to your access and use of [APP NAME/WEBSITE/OTHER SERVICES] (the "Service"). Please read them carefully.
 
 ## Accepting these Terms 
