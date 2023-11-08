@@ -12,4 +12,10 @@ Whenever we make changes to these Terms, the changes are effective [TIME PERIOD]
 If you continue to use the Service after the revised Terms go into effect, then you have accepted the changes to these Terms.
 
 ## The Club Rules
+- It is required that you currently study in NHSAS.
+- Treat all members with respect and professionalism.
+- The right to reappoint the president with the council's approval to oversee the elections.
+- Be committed to weekly tasks.
+- Be punctual for meetings and communicate in an organized manner.
+- Club leaders can accept , suspend , or expel any individual.
 
