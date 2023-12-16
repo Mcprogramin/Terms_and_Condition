@@ -114,7 +114,10 @@ By following these steps, you will successfully obtain a HCl solution (V = 100 m
 
 # Results and Discussion
 
-[Include your results and any observations or insights gained from the experiment.]
+Results: Two methods were used for preparing solutions: weighing NaCl powder and dilution. For the NaCl solution, 1.1688 grams of NaCl powder was added to a 100 mL flask filled with distilled water. The resulting NaCl solution had a concentration of 0.2 mol/L. For the HCl solution, approximately 1.67 mL of concentrated HCl solution was diluted with distilled water in a 100 mL flask, resulting in a 0.2 mol/L HCl solution.
+
+
+Discussion: The weighing method involves directly measuring the mass of the solute, while the dilution method involves calculating the initial molar concentration and volume of the concentrated solution. Both methods can yield accurate results if performed correctly. The choice between them depends on factors such as solute availability, desired concentration, and convenience. Vigorous shaking is important in both methods to ensure a homogeneous mixture.
 
 # Conclusion
 
